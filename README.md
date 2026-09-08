@@ -99,3 +99,9 @@ A computational and web-based framework for mapping single cells to spatial loca
 - **Computational Biology:** single-cell RNA-seq, spatial transcriptomics, regulatory genomics, epigenomics, and cross-species transcriptomic analysis
 - **Model Interpretation:** in silico sequence perturbation, regulatory variant interpretation, motif analysis, feature attribution, and biological hypothesis generation
 - **Research Engineering:** Python, PyTorch, R, Scanpy/AnnData, HDF5, Linux, Git, and reproducible model training pipelines
+
+
+## Connect
+
+- **Email:** [juntian_qi@163.com](mailto:juntian_qi@163.com)
+- **Google Scholar:** [Juntian Qi](https://scholar.google.com/citations?user=HO4JTnEAAAAJ&hl=en)
