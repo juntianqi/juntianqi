@@ -44,6 +44,7 @@ A multimodal AI framework integrating genomic regulatory sequence, cell identity
 
 **Role:** First author · Method developer  
 **Status:** Manuscript in preparation · Code release in preparation
+**Code:** [Official Code](https://github.com/juntianqi/GenoSpatial)
 
 ---
 
