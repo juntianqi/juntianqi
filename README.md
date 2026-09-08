@@ -20,7 +20,7 @@ My research focuses on building interpretable and multimodal AI systems for unde
 
 An interpretable deep learning framework for modeling ~180-kb genomic regulatory sequences and identifying cis-regulatory changes associated with cross-species gene expression evolution.
 
-**Role:** Co-first author (first-listed) · Method developer  
+**Role:** First author · Method developer  
 **Status:** Under review at *Nature Structural & Molecular Biology*  
 **Code:** [Official Code](https://github.com/bbd0123/DeepEvo)
 
@@ -31,7 +31,7 @@ An interpretable deep learning framework for modeling ~180-kb genomic regulatory
 
 An interpretable multi-view graph neural network framework for identifying niche-specific cell–cell communication from spatial transcriptomic data.
 
-**Role:** Co-first author (first-listed) · Method developer  
+**Role:** First author · Method developer  
 **Publication:** *Nature Computational Science* (2025)  
 **Links:** [Paper](https://www.nature.com/articles/s43588-025-00809-6) · [Official Code](https://github.com/STCaser/STCase)
 
