@@ -90,3 +90,12 @@ A computational and web-based framework for mapping single cells to spatial loca
   **Joint first author**
 
 † Equal contribution.
+
+
+## Technical Expertise
+
+- **AI & Deep Learning:** long-range genomic sequence modeling, multimodal learning, graph neural networks, hypergraph neural networks, contrastive learning, attention mechanisms, and representation learning
+- **AI for Biology:** gene regulation modeling, spatial microenvironment modeling, cell–cell communication, virtual perturbation, and inverse design of cellular states
+- **Computational Biology:** single-cell RNA-seq, spatial transcriptomics, regulatory genomics, epigenomics, and cross-species transcriptomic analysis
+- **Model Interpretation:** in silico sequence perturbation, regulatory variant interpretation, motif analysis, feature attribution, and biological hypothesis generation
+- **Research Engineering:** Python, PyTorch, R, Scanpy/AnnData, HDF5, Linux, Git, and reproducible model training pipelines
