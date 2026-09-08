@@ -20,45 +20,48 @@ My research focuses on building interpretable and multimodal AI systems for unde
 
 An interpretable deep learning framework for modeling ~180-kb genomic regulatory sequences and identifying cis-regulatory changes associated with cross-species gene expression evolution.
 
-**Role:** First author · Lead developer  
+**Role:** First author · Method developer 
 **Status:** Under review at *Nature Structural & Molecular Biology*  
-**Code:** [Official repository](https://github.com/bbd0123/DeepEvo)
+**Code:** [Official Code](https://github.com/bbd0123/DeepEvo)
 
 ---
 
 ### STCase
 **Interpretable spatial modeling of cell–cell communication**
 
-A multi-view graph neural network framework for identifying niche-specific cell–cell communication from spatial transcriptomic data.
+An interpretable multi-view graph neural network framework for identifying niche-specific cell–cell communication from spatial transcriptomic data.
 
-**Role:** Co-first author (first-listed) · Project developer  
-**Publication:** *Nature Computational Science*
+**Role:** First author · Method developer  
+**Publication:** *Nature Computational Science* (2025)  
+**Links:** [Paper](https://www.nature.com/articles/s43588-025-00809-6) · [Official Code](https://github.com/STCaser/STCase)
 
 ---
 
 ### GenoSpatial
 **Multimodal modeling of genomic regulation and spatial cellular context**
 
-A multimodal AI framework integrating genomic regulatory sequence, cell identity, spatial microenvironment, and cell–cell communication for spatial gene expression modeling and virtual perturbation analysis.
+A multimodal AI framework integrating genomic regulatory sequence, cell identity, spatial microenvironment, and cell–cell communication for spatial gene expression modeling and in silico perturbation.
 
-**Role:** First author · Lead developer  
-**Status:** Manuscript in preparation*
+**Role:** First author · Method developer 
+**Status:** Manuscript in preparation · Code release in preparation
 
 ---
 
 ### Inverse Virtual Cell
-**Inferring upstream perturbations from desired cellular states**
+**Inferring candidate perturbations from target cellular states**
 
-A computational framework for identifying candidate perturbations capable of driving cells toward target molecular states.
+A computational framework for identifying candidate upstream perturbations that may drive cells toward desired molecular states, with the goal of enabling inverse design of cellular phenotypes.
 
-*Ongoing research*
+**Role:** Project lead · Method developer  
+**Status:** Ongoing research
 
 ---
 
 ### STellaris
 **Single-cell spatial mapping and spatial multi-omics reconstruction**
 
-A computational and web-based framework for mapping single cells to spatial locations and reconstructing spatial molecular profiles.
+A computational and web-based framework for mapping single cells to spatial locations using spatial transcriptomics references and extending spatial information to multiple molecular layers.
 
-**Role:** Joint first author  
-**Publication:** *Nucleic Acids Research*
+**Role:** Co-first author  
+**Publication:** *Nucleic Acids Research* (2023)  
+**Links:** [Paper](https://academic.oup.com/nar/article/51/W1/W560/7177883?utm_source=chatgpt.com) · [Web Server](https://spatial.rhesusbase.com/?utm_source=chatgpt.com)
