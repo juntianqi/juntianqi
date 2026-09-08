@@ -42,7 +42,7 @@ An interpretable multi-view graph neural network framework for identifying niche
 
 A multimodal AI framework integrating genomic regulatory sequence, cell identity, spatial microenvironment, and cell–cell communication for spatial gene expression modeling and in silico perturbation.
 
-**Role:** First author · Method developer 
+**Role:** First author · Method developer  
 **Status:** Manuscript in preparation · Code release in preparation
 
 ---
