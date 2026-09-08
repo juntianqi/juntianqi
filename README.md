@@ -65,3 +65,28 @@ A computational and web-based framework for mapping single cells to spatial loca
 **Role:** Co-first author  
 **Publication:** *Nucleic Acids Research* (2023)  
 **Links:** [Paper](https://academic.oup.com/nar/article/51/W1/W560/7177883?utm_source=chatgpt.com) · [Web Server](https://spatial.rhesusbase.com/?utm_source=chatgpt.com)
+
+
+## Selected Publications & Manuscripts
+
+- **Juntian Qi†**, Zhengchao Luo†, et al.  
+  **[Interpretable niche-based cell–cell communication inference using multi-view graph neural networks](https://www.nature.com/articles/s43588-025-00809-6)**  
+  *Nature Computational Science*, 2025.  
+  **First author · Equal contribution**
+
+- **Juntian Qi**, Shuhan Yang†, et al.  
+  **DeepEvo deciphers the cis-regulatory grammar of human evolution to prioritize adaptive and disease drivers**  
+  *Nature Structural & Molecular Biology*, under review.  
+  **First author · Lead developer**
+
+- **Juntian Qi**, et al.  
+  **GenoSpatial integrates genomic sequence and spatial context to predict context-dependent gene expression**  
+  Manuscript submitted.  
+  **First author · Method developer**
+
+- Xiangshang Li†, Chunfu Xiao†, **Juntian Qi†**, et al.  
+  **[STellaris: a web server for accurate spatial mapping of single cells based on spatial transcriptomics data](https://academic.oup.com/nar/article/51/W1/W560/7177883)**  
+  *Nucleic Acids Research*, 2023.  
+  **Joint first author**
+
+† Equal contribution.
