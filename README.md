@@ -20,7 +20,7 @@ My research focuses on building interpretable and multimodal AI systems for unde
 
 An interpretable deep learning framework for modeling ~180-kb genomic regulatory sequences and identifying cis-regulatory changes associated with cross-species gene expression evolution.
 
-**Role:** First author · Method developer  
+**Role:** First author · Lead developer  
 **Status:** Under review at *Nature Structural & Molecular Biology*  
 **Code:** [Official Code](https://github.com/bbd0123/DeepEvo)
 
@@ -31,7 +31,7 @@ An interpretable deep learning framework for modeling ~180-kb genomic regulatory
 
 An interpretable multi-view graph neural network framework for identifying niche-specific cell–cell communication from spatial transcriptomic data.
 
-**Role:** First author · Method developer  
+**Role:** First author · Lead developer  
 **Publication:** *Nature Computational Science* (2025)  
 **Links:** [Paper](https://www.nature.com/articles/s43588-025-00809-6) · [Official Code](https://github.com/STCaser/STCase)
 
@@ -42,7 +42,7 @@ An interpretable multi-view graph neural network framework for identifying niche
 
 A multimodal AI framework integrating genomic regulatory sequence, cell identity, spatial microenvironment, and cell–cell communication for spatial gene expression modeling and in silico perturbation.
 
-**Role:** First author · Method developer  
+**Role:** First author · Lead developer  
 **Status:** Manuscript in preparation  
 **Code:** [Official Code](https://github.com/juntianqi/GenoSpatial)
 
@@ -53,7 +53,7 @@ A multimodal AI framework integrating genomic regulatory sequence, cell identity
 
 A computational framework for identifying candidate upstream perturbations that may drive cells toward desired molecular states, with the goal of enabling inverse design of cellular phenotypes.
 
-**Role:** Project lead · Method developer  
+**Role:** Project lead · Lead developer  
 **Status:** Ongoing research
 
 ---
@@ -65,7 +65,7 @@ A computational and web-based framework for mapping single cells to spatial loca
 
 **Role:** Co-first author  
 **Publication:** *Nucleic Acids Research* (2023)  
-**Links:** [Paper](https://academic.oup.com/nar/article/51/W1/W560/7177883?utm_source=chatgpt.com) · [Web Server](https://spatial.rhesusbase.com/?utm_source=chatgpt.com)
+**Links:** [Paper](https://academic.oup.com/nar/article/51/W1/W560/7177883) · [Web Server](https://spatial.rhesusbase.com)
 
 
 ## Selected Publications & Manuscripts
@@ -73,7 +73,7 @@ A computational and web-based framework for mapping single cells to spatial loca
 - **Juntian Qi†**, Zhengchao Luo†, et al.  
   **[Interpretable niche-based cell–cell communication inference using multi-view graph neural networks](https://www.nature.com/articles/s43588-025-00809-6)**  
   *Nature Computational Science*, 2025.  
-  **First author · Equal contribution**
+  **First author · Lead developer**
 
 - **Juntian Qi**, Shuhan Yang†, et al.  
   **DeepEvo deciphers the cis-regulatory grammar of human evolution to prioritize adaptive and disease drivers**  
@@ -82,13 +82,13 @@ A computational and web-based framework for mapping single cells to spatial loca
 
 - **Juntian Qi**, et al.  
   **GenoSpatial integrates genomic sequence and spatial context to predict context-dependent gene expression**  
-  Manuscript submitted.  
-  **First author · Method developer**
+  Manuscript in preparation.  
+  **First author · Lead developer**
 
 - Xiangshang Li†, Chunfu Xiao†, **Juntian Qi†**, et al.  
   **[STellaris: a web server for accurate spatial mapping of single cells based on spatial transcriptomics data](https://academic.oup.com/nar/article/51/W1/W560/7177883)**  
   *Nucleic Acids Research*, 2023.  
-  **Joint first author**
+  **Co-first author**
 
 † Equal contribution.
 
