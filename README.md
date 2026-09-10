@@ -55,6 +55,7 @@ A computational framework for identifying candidate upstream perturbations that 
 
 **Role:** Project lead · Lead developer  
 **Status:** Ongoing research
+**Code:** [Official Code](https://github.com/juntianqi/inverse-virtual-cell)
 
 ---
 
