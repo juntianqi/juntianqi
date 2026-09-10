@@ -54,7 +54,7 @@ A multimodal AI framework integrating genomic regulatory sequence, cell identity
 A computational framework for identifying candidate upstream perturbations that may drive cells toward desired molecular states, with the goal of enabling inverse design of cellular phenotypes.
 
 **Role:** Project lead · Lead developer  
-**Status:** Ongoing research
+**Status:** Ongoing research  
 **Code:** [Official Code](https://github.com/juntianqi/inverse-virtual-cell)
 
 ---
